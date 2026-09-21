@@ -42,3 +42,9 @@ Key Findings
 | **Cracked Password** | `good-luck` |
 | **Time to Crack** | Under 1 second (weak password) |
 | **Wordlist Used** | rockyou.txt (14M+ passwords) |
+
+
+Author
+Muhammad Arslan Nadeem
+Github: https://github.com/ArslanWarrior
+LinkedIn: https://www.linkedin.com/in/muhammad-arslan-nadeem-124a0832b/
